@@ -1,7 +1,11 @@
 - 👋 Hi, I’m @Voltegourde
-- 👀 I’m interested in full stack dev and cute animals.
-- 🌱 I’m currently learning Javascript and SQL.
-- 📫 You can usually reach out to me through twitter.
+- I’m currently studying to become a software engineer.
+- 👀 I’m interested in full stack dev and eating pizza.
+- 🌱 I’m currently learning React and Node.js.
+- 📫 How to reach me: samosimonak@gmail.com.
+- 💬 Ask me about HTML and CSS.
+- 🤝 I’m looking for help in learning about Accessible and Modern Websites.
+- 👯 I’m looking to collaborate on Developing new open-source projects.
 
 <!---
 Voltegourde/Voltegourde is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
